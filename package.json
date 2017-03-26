@@ -1,0 +1,14 @@
+{
+  "name": "reverse-hash",
+  "version": "1.0.0",
+  "description": "To find the string from hash generated via Int64 Pseudo code",
+  "main": "reverse.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "reversehash"
+  ],
+  "author": "Mohit Agarwal",
+  "license": "ISC"
+}
